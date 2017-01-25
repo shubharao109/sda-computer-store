@@ -45,3 +45,5 @@ You have to decide how to model these classes.  The basic requirement is that ea
 Each of these three classes will have the appropriate accessor and mutator methods (also known as getter and setter methods) to access and update these fields.  Finally each will have a constructor method to create objects and populate the fields with values.
 
 You are free to use BlueJ or any other IDE to implement your solution.
+
+[Continue to Part 2: Store](part-2-store)

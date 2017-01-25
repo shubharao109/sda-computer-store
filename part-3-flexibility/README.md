@@ -49,3 +49,5 @@ myPC.addComponent(“hard disk 2”, hdd2);
 ```
 
 Create new methods to `addComponent(String name, Component c)` and `removeComponent(String name)`. Update your implementation of `ComputerStore` to reflect this final version. Test you methods work as expected.  Ensure you document your source code using JavaDoc comments.
+
+You are done! Make sure to email your repo url 😄
