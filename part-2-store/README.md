@@ -65,4 +65,4 @@ public Computer findMostExpensiveComputerV4( ) { … }
 
 Your final task is to decide which is best and say why in a few words as a comment in the chosen method version.
 
-[Continue to Part 3: Flexibility](part-3-flexibility)
+[Continue to Part 3: Flexibility](../part-3-flexibility)

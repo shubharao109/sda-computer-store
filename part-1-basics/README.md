@@ -46,4 +46,4 @@ Each of these three classes will have the appropriate accessor and mutator metho
 
 You are free to use BlueJ or any other IDE to implement your solution.
 
-[Continue to Part 2: Store](part-2-store)
+[Continue to Part 2: Store](../part-2-store)
